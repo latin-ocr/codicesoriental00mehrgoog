@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./codicesoriental00mehrgoog_0345.png"; bbox 0 0 5114 6524; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 340 2747 2555 3060">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 291 2625 2555 3216">
+     <span class='ocr_line' id='line_1_1' title="bbox 340 2747 2555 3060; baseline 0 -0.978"><span class='ocrx_word' id='word_1_1' title='bbox 340 2762 1131 3058; x_wconf 65' lang='lat' dir='ltr'><strong>comens</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1247 2747 2052 3040; x_wconf 68' lang='lat' dir='ltr'><strong>mslcl.</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 2390 2785 2555 3060; x_wconf 77' lang='grc' dir='ltr'><strong>-ς</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 2562 6516">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 2562 6516">
+     <span class='ocr_line' id='line_1_2' title="bbox 0 0 2562 6516; baseline 0 0"><span class='ocrx_word' id='word_1_4' title='bbox 0 0 2562 6516; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
